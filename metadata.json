@@ -1,0 +1,7 @@
+{
+  "name": "Sense Tunisia — Experiential Travel",
+  "description": "A premium, minimalist experiential tourism platform for authentic Tunisian journeys, inspired by editorial design and powered by Gemini 2.5 Flash Image for personalized visual storytelling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
